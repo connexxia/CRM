@@ -10,7 +10,7 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 # Release Notes CRM V1(z)
 The section **[A]** provides an overview of the Sales performances. Follow all your Key Performance Indicators from Captured Sales, Linked Sales, Quantity, Frequency, Average basket, IPT, Cross-sell... For each KPI, you have its definition, value and evolutions MTD and YTD.
 1. Sales MTD, YTD, Evolution over time: The total amount of sales from transactions with real customers
-2. Customers MTD, YTD, Evolution over time: The total distinct count of customers with at least one positive transactions per month and with the cumulative count over one year
+**2.** Customers MTD, YTD, Evolution over time: The total distinct count of customers with at least one positive transactions per month and with the cumulative count over one year
 3. Sales evolution per dimension: The sales performance across various dimensions such as regions, products or POS
 4. Sales evolution per customers segment: The total amount of sales from transactions with real customers splited into 3 segments : New, Existing and Winback
 5. KPIs evolution: The volume of sales over time and a KPI over the same period
