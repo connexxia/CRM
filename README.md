@@ -24,8 +24,13 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 1. **Pareto analysis**: Customers segmentation of the 80/20 principle suggests that a significant portion of a revenue often comes from a small percentage of its customers
 2. **LMH segmentation**: Dividing customers database into 3 groups (Low, Medium and High) based on annual spending basis
 3. **LMH segmentation levers**: What is the most important lever for value creation in your context?
-
-
+4. **Basket analysis**: As an introduction to MBA, this view sheds light on shopper behavior by uncovering patterns of frequently co-purchased items.
+5. **Buy and Stop analysis**: The Top Items in transactions in descending order of sales in a classic histogram but with Buy & Stop risk for each item
+6. **Next transaction analysis**: Customer behavior views describe how customers shop, from their first purchase, to how often they make a purchase...
+7. **Quality Of Service and Customer Satisfaction**: The Quality of Service graph displays the number of customers per segment and the QoS delivered by the Customer Service on each segment.
+8. **Recruitment analysis**: This sankey view provides a Marketing Manager with insights into the effectiveness of for example, hiring strategies for acquiring new customers.
+9. **Recruitment of Rank(n)**: Recruitment is based on the percentage of transactions of rank 1 or higher in the sales evolution timeframe with a detail per POS.
+10. 
 # How to use it
 1.
 2.
