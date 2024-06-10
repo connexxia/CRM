@@ -34,10 +34,10 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 12. **Customers Satisfaction**: The customer satisfaction (NPS) over time and a KPI over the same period of time
 13. **Impact of Marketing actions on KPIs**: One effective method for measuring the impact of actions is to compare KPIs of the customers exposed to the actions to those who are not (Control Group).
 # Files description
-README.md: In simple words, the README file gives you a detailed description of the project with Product description till how to use it... 
-CRM V1(y).qvf: This QVF file is essential as it serves as the container for the entire Qlik application, encapsulating data, script and visualizations. This files can be shared with others, allowing collaborative data analysis and exploration within the Qlik environment.
-crm_data.xlsx: This file contains the sample data used in the dashboards but also all the details you need to know about the Project, from the Team to UAT.
-LICENSE.md: A short and simple permissive license with conditions only requiring preservation of copyright 2024 Custis and license notices attached with the QVF file
+1. **README.md**: In simple words, the README file gives you a detailed description of the project with Product description till how to use it...
+2. **CRM V1(y).qvf**: This QVF file is essential as it serves as the container for the entire Qlik application, encapsulating data, script and visualizations. This files can be shared with others, allowing collaborative data analysis and exploration within the Qlik environment.
+3. **crm_data.xlsx**: This file contains the sample data used in the dashboards but also all the details you need to know about the Project, from the Team to UAT.
+4. **LICENSE.md**: A short and simple permissive license with conditions only requiring preservation of copyright 2024 Custis and license notices attached with the QVF file
 # How to use it
 1.
 2.
