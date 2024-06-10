@@ -8,7 +8,7 @@ This app is divided into 2 parts :
 The section [A] provides an overview of the Sales performances.
 The section [B] provides specific dashboards for analyzing the Customer lifecycle.
 # Release Notes CRM V1(z)
-**[A] The Sales point of view**
+## **[A] The Sales point of view**
 The section [A] provides an overview of the Sales performances. Follow all your Key Performance Indicators from Captured Sales, Linked Sales, Quantity, Frequency, Average basket, IPT, Cross-sell... For each KPI, you have its definition, value and evolutions MTD and YTD.
 1. **Sales** MTD, YTD, Evolution over time: The total amount of sales from transactions with real customers
 2. **Customers** MTD, YTD, Evolution over time: The total distinct count of customers with at least one positive transactions per month and with the cumulative count over one year
@@ -19,11 +19,11 @@ The section [A] provides an overview of the Sales performances. Follow all your 
 7. **Top Items**: Top n items in sales all axis, per axis and Top 10 items contribution in the total Sales
 8. **Gap analysis**: View of sales disparities between the current and previous year per dimension
 
-**[B] The Customer lifecycle**
+## **[B] The Customer lifecycle**
 The section [B] provides specific dashboards for analyzing the Customer lifecycle.These dashboards explore the different customer behaviors such as segmentation, risk, recruitment, repeaters, customer journey and satisfaction. By mastering the customer lifecycle, businesses can manage and hopefully improve their customer relation to drive lasting loyalty.
 1. **Pareto analysis**: Customers segmentation of the 80/20 principle suggests that a significant portion of a revenue often comes from a small percentage of its customers
 2. **LMH segmentation**: Dividing customers database into 3 groups (Low, Medium and High) based on annual spending basis
-3. **LMH segmentation levers**:  
+3. **LMH segmentation levers**: What is the most important lever for value creation in your context?
 
 
 # How to use it
