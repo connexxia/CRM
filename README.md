@@ -35,25 +35,27 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 13. **Impact of Marketing actions on KPIs**: One effective method for measuring the impact of actions is to compare KPIs of the customers exposed to the actions to those who are not (Control Group).
 # Files description
 1. **README.md**: In simple words, the README file gives you a detailed description of the project with Product description till how to use it...
-2. **CRM V1(y).qvf**: This QVF file is essential as it serves as the container for the entire Qlik application, encapsulating data, script and visualizations. This files can be shared with others, allowing collaborative data analysis and exploration within the Qlik environment.
+2. **CRM V1(z).qvf**: This QVF file is essential as it serves as the container for the entire Qlik application, encapsulating data, script and visualizations. This files can be shared with others, allowing collaborative data analysis and exploration within the Qlik environment.
 3. **crm_data.xlsx**: This file contains the sample data used in the dashboards but also all the details you need to know about the Project, from the Team to UAT.
 4. **LICENSE.md**: A short and simple permissive license with conditions only requiring preservation of copyright 2024 Custis and license notices attached with the QVF file
 # How to use it
-1.
-2.
-3.
-
+1. Upload the file.qvf under the QMC environment: _Add existing apps and scripts_
+2. Because the file.qvf already contains the data, there is no need to _Reload now_ the app.   
+3. But before any reloading of the script, _Creat new connection_ with the file.xlsx
+4. Then _Reload now_ the app to update the data, ETL, variables...
+5. For a better experience, switch off the _Touch screen mode_
+6. To get the full app, contact Sébastien at sebastien.parmentier@gmail.com
 # Tested configurations
-Qlik Sense
-February 2019
-June 2019
-September 2019
-Browsers
-Chrome
-# Known issues
-
-# Notes
-The bookmarklet was generated using an online tool: https://mrcoles.com/bookmarklet/
-# License
-MIT
-
+## Qlik Sense Entreprise and Cloud
+1. May 2024
+2. February 2024
+3. ...
+4. February 2023
+## Desktop browser
+1. Google Chrome
+2. Microsoft Edge
+# Roadmap
+1. Top contributions analysis: Introduction to ML to detect the most profitable customers
+2. Cross Selling: Overview of the Cross Selling
+3. Gifting analysis: Measure the impact of gifting on Sales
+4. Customer Service: Customer Service template for BI is a new Qlik app.
