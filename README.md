@@ -54,11 +54,13 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 ## Desktop browser
 1. Google Chrome
 2. Microsoft Edge
-# Roadmap
+# Backlog
 1. Top contributions analysis: Introduction to ML to detect the most profitable customers
 2. Cross Selling: Overview of the Cross Selling
 3. Gifting analysis: Measure the impact of gifting on Sales
 4. Customer Service: Customer Service template for BI is a new Qlik app.
-5. If you have a good idea you are welcome !
+# Roadmap
+1. If you have a good idea, you can submit it to our Support.
+2. Please clarify the why and the KPI defintion. This will help prioritising against other things.
 # Support
 For any question, please contact Sébastien at sebastien.parmentier@gmail.com
