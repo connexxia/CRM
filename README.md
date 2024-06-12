@@ -59,3 +59,6 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 2. Cross Selling: Overview of the Cross Selling
 3. Gifting analysis: Measure the impact of gifting on Sales
 4. Customer Service: Customer Service template for BI is a new Qlik app.
+5. If you have a good idea you are welcome !
+# Support
+For any question, please contact Sébastien at sebastien.parmentier@gmail.com
