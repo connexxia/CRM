@@ -7,7 +7,7 @@ Qlik template for the CRM is a BI application that provides dashboards for CRM a
 This app is divided into 2 parts :
 The section [A] provides an overview of the Sales performances.
 The section [B] provides specific dashboards for analyzing the Customer lifecycle.
-# Release Notes CRM V1(z)
+# Release Notes CRM V2
 ## **[A] The Sales point of view**
 The section [A] provides an overview of the Sales performances. Follow all your Key Performance Indicators from Captured Sales, Linked Sales, Quantity, Frequency, Average basket, IPT, Cross-sell... For each KPI, you have its definition, value and evolutions MTD and YTD.
 1. **Sales** MTD, YTD, Evolution over time: The total amount of sales from transactions with real customers
