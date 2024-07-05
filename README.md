@@ -41,10 +41,12 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 # How to use it
 1. Upload the file.qvf under the QMC environment: _Add existing apps and scripts_
 2. Because the file.qvf already contains the data, there is no need to _Reload now_ the app.   
-3. But before any reloading of the script, _Create new connection_ with the file.xlsx
-4. Then _Reload now_ the app to update the data, ETL, variables...
-5. For a better experience, switch off the _Touch screen mode_
-6. To get the full app, contact Sébastien at sebastien.parmentier@gmail.com
+3. But before any reloading of the script, _Create new connection_ with the file.xlsx.
+4. Create a data connection for example to Google Drive
+5. In the script editor section _Connect to the data_ let a Data_Source='[lib://Template:Google_Drive - sebastien.parmentier@gmail.com/ ...
+6. Then _Reload now_ the app to update the data, ETL, variables...
+7. For a better experience, switch off the _Touch screen mode_
+8. To get the full app, contact Sébastien at sebastien.parmentier@gmail.com
 # Tested configurations
 ## Qlik Sense Entreprise and Cloud
 1. May 2024
