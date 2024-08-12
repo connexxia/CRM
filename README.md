@@ -33,6 +33,9 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 11. **Repeaters rate**: Repeaters rate or Repeater Purchase Rate (RPR) is a key metric used in business to measure the percentage of customers who return to make a second purchase.
 12. **Customers Satisfaction**: The customer satisfaction (NPS) over time and a KPI over the same period of time
 13. **Impact of Marketing actions on KPIs**: One effective method for measuring the impact of actions is to compare KPIs of the customers exposed to the actions to those who are not (Control Group).
+14. **Top Items selling with one selected Item**: To get the top N items that are bought together with a specific and selected item.
+15. **Contribution and Penetration**: To find out the most-selling items in terms of Recruitment, Contribution and Penetration.
+16. **Customers clustering**: This is useful for grouping together customers and visually separate samples in n groups of equal variance like the Average Basket versus Satisfaction.
 # Files description
 1. **README.md**: In simple words, the README file gives you a detailed description of the project with Product description till how to use it...
 2. **CRM version.indice.qvf**: This QVF file is essential as it serves as the container for the entire Qlik application, encapsulating data, script and visualizations. This files can be shared with others, allowing collaborative data analysis and exploration within the Qlik environment.
