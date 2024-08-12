@@ -70,6 +70,8 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 # Support
 For any question, please contact Sébastien at sebastien.parmentier@gmail.com
 # Screenshots
+![A01](https://github.com/user-attachments/assets/bbb0d60b-b281-46d6-bce5-6187f758d7f1)
+
 ![01](https://github.com/user-attachments/assets/7f6c4842-f049-4130-b999-c1fbd3f24b29)
 ![02](https://github.com/user-attachments/assets/f9a9193c-0221-4595-82d0-36a6011108e8)
 ![03](https://github.com/user-attachments/assets/e0f22ae5-d396-4e20-af09-6b801762ec6b)
