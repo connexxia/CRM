@@ -74,7 +74,6 @@ For any question, please contact Sébastien at sebastien.parmentier@gmail.com
 ![02](https://github.com/user-attachments/assets/f9a9193c-0221-4595-82d0-36a6011108e8)
 ![03](https://github.com/user-attachments/assets/e0f22ae5-d396-4e20-af09-6b801762ec6b)
 ![04](https://github.com/user-attachments/assets/035e78f7-2a15-4915-a9dd-c67e58b308fb)
-
 ![05](https://github.com/user-attachments/assets/605e1ed1-a6ff-404a-981b-2ce617cb5018)
 ![06](https://github.com/user-attachments/assets/c18bd9e2-75ad-491d-ba1b-95a63a44defb)
 ![07](https://github.com/user-attachments/assets/7fabff39-872c-463e-ae38-d2fc5d46b5da)
