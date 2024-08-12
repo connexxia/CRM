@@ -69,3 +69,19 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 2. Please clarify the why and the KPI defintion. This will help prioritising against other things.
 # Support
 For any question, please contact Sébastien at sebastien.parmentier@gmail.com
+# Screenshots
+![01](https://github.com/user-attachments/assets/7f6c4842-f049-4130-b999-c1fbd3f24b29)
+
+![02](https://github.com/user-attachments/assets/f9a9193c-0221-4595-82d0-36a6011108e8)
+
+![03](https://github.com/user-attachments/assets/e0f22ae5-d396-4e20-af09-6b801762ec6b)
+![04](https://github.com/user-attachments/assets/035e78f7-2a15-4915-a9dd-c67e58b308fb)
+![05](https://github.com/user-attachments/assets/605e1ed1-a6ff-404a-981b-2ce617cb5018)
+![06](https://github.com/user-attachments/assets/c18bd9e2-75ad-491d-ba1b-95a63a44defb)
+![07](https://github.com/user-attachments/assets/7fabff39-872c-463e-ae38-d2fc5d46b5da)
+![08](https://github.com/user-attachments/assets/81e3f35d-0dea-4bf1-86d1-2289d8a2fb99)
+![09](https://github.com/user-attachments/assets/ec64e0da-89ce-460e-a3fc-76cad13e8ec3)
+![10](https://github.com/user-attachments/assets/b2838826-c11c-4972-9091-6d2d5def3507)
+![11](https://github.com/user-attachments/assets/22b2168e-af29-42a9-aac5-0df69e567ce6)
+![12](https://github.com/user-attachments/assets/d0b7210e-f15a-401a-a570-d7bb33f99d1d)
+![13](https://github.com/user-attachments/assets/ca471b12-7f20-43a5-ac53-d0466429cf79)
