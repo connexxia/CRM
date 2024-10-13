@@ -4,9 +4,10 @@ Each template is free. We only charge for the development of specific features, 
 And to get an idea of ​​the dashboards contained in our Qlik Template for the CRM, here are the Release Notes.
 # Product description
 Qlik Template for the CRM is a BI application that provides dashboards for CRM analytics powered by Qlik. 
-This app is divided into 2 parts :
+This app is divided into 3 parts :
 The section [A] provides an overview of the Sales performances.
 The section [B] provides specific dashboards for analyzing the Customer lifecycle.
+The section [C] is used to export the data from the main tables.
 # Data model
 The schema of the data model used in this app is available [here](https://dbdiagram.io/d/data-model-train-v1-2-62c444ad69be0b672ca3cdbe)
 # Release Notes CRM V2
@@ -37,7 +38,9 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 13. **Impact of Marketing actions on KPIs**: One effective method for measuring the impact of actions is to compare KPIs of the customers exposed to the actions to those who are not (Control Group).
 14. **Top Items selling with one selected Item**: To get the top N items that are bought together with a specific and selected item.
 15. **Contribution and Penetration**: To find out the most-selling items in terms of Recruitment, Contribution and Penetration.
-16. **Customers clustering**: This is useful for grouping together customers and visually separate samples in n groups of equal variance like the Average Basket versus Satisfaction.
+16. **Customers clustering**: This is useful for grouping together customers and visually separate samples in n groups of equal variance like the Average Basket versus Satisfaction.*
+## **[C] Export the main tables**
+The section [C] is used to export the data from the main tables ie Customers (1 customer per row) and Transactions (1 transaction and 1 item per row). It means that if a customer purchases 2 distinct items in 1 transaction, you will export 2 rows with 1 transaction id and 2 item id. Note that you can export the data from any charts in the front end to Excel by right clicking the chart.
 # Files description
 1. **README.md**: In simple words, the README file gives you a detailed description of the project with Product description till how to use it...
 2. **CRM version.indice.qvf**: This QVF file is essential as it serves as the container for the entire Qlik application, encapsulating data, script and visualizations. This files can be shared with others, allowing collaborative data analysis and exploration within the Qlik environment.
