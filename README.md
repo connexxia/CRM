@@ -41,11 +41,10 @@ The section [B] provides specific dashboards for analyzing the Customer lifecycl
 16. **Customers clustering**: This is useful for grouping together customers and visually separate samples in n groups of equal variance like the Average Basket versus Satisfaction.*
 ## **[C] Export the main tables**
 The section [C] is used to export the data from the main tables ie Customers (1 customer per row) and Transactions (1 transaction and 1 item per row). It means that if a customer purchases 2 distinct items in 1 transaction, you will export 2 rows with 1 transaction id and 2 item id. Note that you can export the data from any charts in the front end to Excel by right clicking the chart.
-# Files description
-1. **README.md**: In simple words, the README file gives you a detailed description of the project with Product description till how to use it...
-2. **CRM version.indice.qvf**: This QVF file is essential as it serves as the container for the entire Qlik application, encapsulating data, script and visualizations. This files can be shared with others, allowing collaborative data analysis and exploration within the Qlik environment.
+# Release files description
+1. **CRM version.indice.qvf**: This QlikView application file is essential as it serves as the container for the entire Qlik application, encapsulating data, script and visualizations. This files can be shared with others, allowing collaborative data analysis and exploration within the Qlik environment.
+2. **CRM version.indice.pbix**: This Power BI eXchange file is essential as it serves as the container for the entire Power BI application, encapsulating data, script and visualizations. This files can be shared with others, allowing collaborative data analysis and exploration within the Power BI environment.
 3. **crm_data.xlsx**: This file contains the sample data used in the dashboards but also all the details you need to know about the Project, from the Team to UAT.
-4. **LICENSE.md**: A short and simple permissive license with conditions only requiring preservation of copyright 2024 Custis and license notices attached with the QVF file
 # How to use it
 1. Upload the file.qvf under the QMC environment: _Add existing apps and scripts_
 2. Because the file.qvf already contains the data, there is no need to _Reload now_ the app.   
