@@ -1,7 +1,7 @@
 # Presentation
 Don't start from scratch to develop your Business Intelligence applications! Custics offer ready-to-use dashboards for Finance, CRM and Customers Service. 
 Each template is free. We only charge for the development of specific features, the support to deploy, etc...
-And to get an idea of ​​the dashboards contained in our ** Qlik Template for the CRM **, here are the Release Notes.
+And to get an idea of ​​the dashboards contained in our **Qlik Template for the CRM**, here are the Release Notes.
 # Product description
 Qlik Template for the CRM is a BI application that provides dashboards for CRM analytics powered by Qlik. 
 This app is divided into 3 parts :
