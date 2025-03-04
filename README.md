@@ -99,3 +99,6 @@ For any question, please contact Sébastien at sebastien.parmentier@gmail.com
 ![B14](https://github.com/user-attachments/assets/52193a18-a635-4d91-a467-f1e99991b15b)
 ![B15](https://github.com/user-attachments/assets/927c9e3c-ff1c-41ae-9c1c-e5dd9796355e)
 ![B16](https://github.com/user-attachments/assets/7df4c166-bc3e-4c4b-9b7d-aeb6bbabd3a1)
+
+title: Example product landing page
+product_video: 'https://www.youtube-nocookie.com/embed/j42t8_6q20o?si=oSdnXxiIaC-KuiGN'
