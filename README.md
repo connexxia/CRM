@@ -9,7 +9,7 @@ The section [A] provides an overview of the Sales performances.
 The section [B] provides specific dashboards for analyzing the Customer lifecycle.
 The section [C] is used to export the data from the main tables.
 # Data model
-The schema of the data model used in this app is available [here](https://dbdiagram.io/d/data-model-train-v1-2-62c444ad69be0b672ca3cdbe)
+The schema of the data model used in this app is available [here].
 # Release Notes CRM V2
 ## **[A] The Sales point of view**
 The section [A] provides an overview of the Sales performances. Follow all your Key Performance Indicators from Captured Sales, Linked Sales, Quantity, Frequency, Average basket, IPT, Cross-sell... For each KPI, you have its definition, value and evolutions MTD and YTD.
