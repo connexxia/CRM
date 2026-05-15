@@ -4,7 +4,8 @@ Each template is free. We only charge for the development of specific features, 
 And to get an idea of ​​the dashboards contained in our **Qlik Template for the CRM**, here are the Release Notes.
 # Product description
 Qlik Template for the CRM is a BI application that provides dashboards for CRM analytics powered by Qlik. 
-This app is divided into 3 parts :
+Power BI Template for the CRM is a BI application that provides dashboards for CRM analytics powered by Power BI.
+Each app is divided into 3 parts :
 The section [A] provides an overview of the Sales performances.
 The section [B] provides specific dashboards for analyzing the Customer lifecycle.
 The section [C] is used to export the data from the main tables.
