@@ -3,14 +3,14 @@ Don't start from scratch to develop your Business Intelligence applications! Cus
 Each template is free. We only charge for the development of specific features, the support to deploy, etc...
 And to get an idea of ​​the dashboards contained in our **Qlik Template for the CRM**, here are the Release Notes.
 # Product description
-Qlik Template for the CRM is a BI application that provides dashboards for CRM analytics powered by Qlik. 
-Power BI Template for the CRM is a BI application that provides dashboards for CRM analytics powered by Power BI.
+Qlik Template for the CRM is a BI application that provides dashboards for CRM analytics powered by **Qlik**. 
+Power BI Template for the CRM is a BI application that provides dashboards for CRM analytics powered by **Power BI**.
 Each app is divided into 3 parts :
 The section [A] provides an overview of the Sales performances.
 The section [B] provides specific dashboards for analyzing the Customer lifecycle.
 The section [C] is used to export the data from the main tables.
 # Data model
-The schema of the data model used in this app is available [here].
+The schema of the data model used in this app is a **star schema** organizing data into a central Transactions table linked to multiple dimension tables (Items, Clients, Calendar...) and is available on [demand](https://dbdiagram.io/).
 # Release Notes CRM V2
 ## **[A] The Sales point of view**
 The section [A] provides an overview of the Sales performances. Follow all your Key Performance Indicators from Captured Sales, Linked Sales, Quantity, Frequency, Average basket, IPT, Cross-sell... For each KPI, you have its definition, value and evolutions MTD and YTD.
