@@ -76,6 +76,7 @@ The section [C] is used to export the data from the main tables ie Customers (1 
 For any question, please contact Sébastien at sebastien.parmentier@gmail.com
 # Screenshots
 ![A01](https://github.com/user-attachments/assets/3a56e4e3-c629-4347-a873-b4db99b52ab5)
+Gap analysis appliqué au CRM et le pilotage de votre activité devient plus efficace !
 ![A02](https://github.com/user-attachments/assets/6c2bce3d-e22a-4ccb-821e-4957a8dbb02e)
 ![A03](https://github.com/user-attachments/assets/5527d132-0959-4370-8b94-f395b8f978a0)
 ![A04](https://github.com/user-attachments/assets/390f3453-daca-4344-b309-645c2ba4c2c2)
@@ -85,7 +86,9 @@ For any question, please contact Sébastien at sebastien.parmentier@gmail.com
 ![A08](https://github.com/user-attachments/assets/7a0741b8-630b-4855-a005-a0e1e513e97e)
 
 ![B01](https://github.com/user-attachments/assets/a5acc964-12d0-41ed-97bb-08cd54e191a4)
+Courbe de Lorenz ou comprendre ce qui caractérise vos meilleurs clients ?
 ![B02](https://github.com/user-attachments/assets/e5fb9897-0aad-4ca6-ae9c-6511a532da6b)
+Deux classiques de la segmentation clients
 ![B03](https://github.com/user-attachments/assets/40ac2e08-8378-47c2-b5e7-85fa400e418c)
 ![B04](https://github.com/user-attachments/assets/98d1b2d6-3b9a-4d0c-a2b7-c75c1dd29809)
 ![B05](https://github.com/user-attachments/assets/12771621-73c8-4be2-9c00-f280dd34beb6)
